@@ -1,4 +1,4 @@
-# MasterScript 
+# Master Script 
 
 freq_SD <- function(infile,colname,window_size = "SW to be used",includerange=FALSE,br_start=0,br_end=10,br_by= "binsizevalue",outfile=NA, write_to_file=FALSE)
 
